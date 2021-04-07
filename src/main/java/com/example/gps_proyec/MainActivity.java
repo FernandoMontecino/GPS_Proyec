@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
 
     Button btnGPS;
     TextView tvUbicacion;
+    int A;
 
 
     @Override
